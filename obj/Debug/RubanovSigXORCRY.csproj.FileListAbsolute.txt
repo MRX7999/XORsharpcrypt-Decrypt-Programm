@@ -1,0 +1,10 @@
+C:\Users\ruban\Desktop\RubanovSigXORCRY\bin\Debug\RubanovSigXORCRY.exe.config
+C:\Users\ruban\Desktop\RubanovSigXORCRY\bin\Debug\RubanovSigXORCRY.exe
+C:\Users\ruban\Desktop\RubanovSigXORCRY\bin\Debug\RubanovSigXORCRY.pdb
+C:\Users\ruban\Desktop\RubanovSigXORCRY\obj\Debug\RubanovSigXORCRY.csprojAssemblyReference.cache
+C:\Users\ruban\Desktop\RubanovSigXORCRY\obj\Debug\RubanovSigXORCRY.Form1.resources
+C:\Users\ruban\Desktop\RubanovSigXORCRY\obj\Debug\RubanovSigXORCRY.Properties.Resources.resources
+C:\Users\ruban\Desktop\RubanovSigXORCRY\obj\Debug\RubanovSigXORCRY.csproj.GenerateResource.cache
+C:\Users\ruban\Desktop\RubanovSigXORCRY\obj\Debug\RubanovSigXORCRY.csproj.CoreCompileInputs.cache
+C:\Users\ruban\Desktop\RubanovSigXORCRY\obj\Debug\RubanovSigXORCRY.exe
+C:\Users\ruban\Desktop\RubanovSigXORCRY\obj\Debug\RubanovSigXORCRY.pdb
